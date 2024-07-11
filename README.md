@@ -1,0 +1,3 @@
+This project produces a curated list of active DNS based on known blacklisted address lists.
+The problem with most medium and small sized Mikrotik routers is that after adding enough static DNS entries the booting time increases drastically, specially since this is only handled by a single core by RouteOS currently. There are also RAM limitations to keep in mind...
+
